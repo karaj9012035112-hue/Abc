@@ -34,5 +34,5 @@ steps:
     with:
       name: shomaresh-tedad-apk
       path: bin/*.apk
-      if-no-files-found: error0
+      if-no-files-found: error
 
