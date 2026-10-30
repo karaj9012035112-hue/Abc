@@ -1,0 +1,1 @@
+Hi everyone, I'm new to Python Android development and I'm trying to convert my project into an APK. If anyone has time to give some guidance, I would really appreciate it
